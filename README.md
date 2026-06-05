@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Ahmed Soliman
-- 👀 I’m interested in web developing spacially frontend developing
-- 🌱 I’m currently learning more about fullstack developing tools
-- 💞️ I’m looking for a job as a frontend developer.
+- 👀 I’m interested in Software Engineering (Embeddded, AI, Web)
+- 🌱 I’m currently Working as a Software Engineer.
 - 📫 How to reach me?!
 My mail: ahmedsoliman9977@gmail.com,
-Phone number:+201156646277.
+Phone number:+201554103616.
 
 <!---
 AhmedSoliman97/AhmedSoliman97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
